@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi 👋
 
-<!--
-**ecagataydogan/ecagataydogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am passionate about solving problems and engaging in activities that benefit others. I possess knowledge in areas like object-oriented programming with Java, Spring Framework, and SQL. I aspire to become a proficient backend developer by continuously enhancing my skills in this domain.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Object Oriented Programming - Java
+- Spring
+- React
+- SQL
+- Natural Language Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/e%C5%9Fref-%C3%A7a%C4%9Fatay-do%C4%9Fan-96076b142/)
+
+Email: ecagataydgn@gmail.com
+
+
+
