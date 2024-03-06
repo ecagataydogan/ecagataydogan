@@ -1,6 +1,5 @@
 # Hi 👋
 
-## About me
 I am passionate about solving problems and engaging in activities that benefit others. I possess knowledge in areas like object-oriented programming with Java, Spring Framework, and SQL. I aspire to become a proficient backend developer by continuously enhancing my skills in this domain.
 
 - 👾  I’m currently working with **Spring framework, Java and SQL**
